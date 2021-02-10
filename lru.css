@@ -1,0 +1,376 @@
+#LRSTitle {
+  color: whitesmoke;
+  text-align: center;
+  font-family: sans-serif;
+  font-size: 75px;
+}
+
+#InfoHeading {
+  color: whitesmoke;
+  text-align: center;
+  font-family: sans-serif;
+  font-size: 12.5px;
+}
+
+ul{
+  list-style-type:none;
+  margin: 0;
+  padding: 0;
+  overflow:hidden;
+  }
+
+.navwrapper{
+  border: none;
+  width: 100%;
+}
+nav {
+  width: 100%;
+  border: none;
+  display: flex;
+  justify-content: space-evenly;
+  background-color:none;
+  
+}
+a {
+  color:whitesmoke;
+  text-decoration-line: none;
+  font-family: sans-serif;
+  font-size: 17.5px;
+}
+
+.HB{
+  text-align: center;
+  width: 22.5%;
+  background-color: black;
+}
+
+.MWB{
+  text-align: center;
+  width: 22.5%;
+  background-color: black;
+}
+
+.CWB{
+  text-align: center;
+  width: 22.5%;
+  background-color: black;
+}
+
+.AMB{
+  text-align: center;
+  width: 22.5%;
+  background-color: black;
+}
+
+
+
+
+
+#HomeTitle {
+  color: whitesmoke;
+  text-align: center;
+  font-family: sans-serif;
+  font-size: 50px;
+  display: block;
+}
+
+#MPL {
+  color: whitesmoke;
+  text-align: center;
+  font-family: sans-serif;
+  font-size: 25px;
+  display: block;
+  background-color: black;
+  padding: 5px;
+}
+
+#MWH {
+  text-align: center;
+  color: whitesmoke;
+  font-family: sans-serif;
+}
+
+#CWH {
+  text-align:center;
+  color: whitesmoke;
+  font-family: sans-serif;
+}
+
+.MPLH{
+  border: none;
+  display: flex;
+  justify-content:space-evenly;
+}
+
+.Items{
+  padding-left: 15px;
+  padding-right: 15px;
+  color: whitesmoke;
+  font-family: sans-serif;
+  background-color: black;
+  opacity: 50%;
+}
+
+#PCL {
+  color: whitesmoke;
+  text-align: center;
+  font-family: sans-serif;
+  font-size: 25px;
+  display: block;
+  background-color: black;
+  padding: 5px;
+}
+
+#SL {
+  text-align: center;
+  color: whitesmoke;
+  font-family: sans-serif;
+}
+
+#VL {
+  text-align:center;
+  color: whitesmoke;
+  font-family: sans-serif;
+}
+
+.PCLH{
+  border: none;
+  display: flex;
+  justify-content:space-evenly;
+}
+
+
+
+
+
+#ModernWarfareTitle {
+  color: whitesmoke;
+  text-align: center;
+  font-family: sans-serif;
+  font-size: 50px;
+  display: block;
+}
+
+#MT {
+  color: whitesmoke;
+  text-align: center;
+  font-family: sans-serif;
+  font-size: 25px;
+  display: block;
+  background-color: black;
+  padding: 5px;
+}
+
+#L1 {
+  text-align: center;
+  color: whitesmoke;
+  font-family: sans-serif;
+}
+
+#L2 {
+  text-align:center;
+  color: whitesmoke;
+  font-family: sans-serif;
+}
+
+.M{
+  border: none;
+  display: flex;
+  justify-content:space-evenly;
+}
+
+.Items{
+  padding-left: 15px;
+  padding-right: 15px;
+  color: whitesmoke;
+  font-family: sans-serif;
+  background-color: black;
+  opacity: 50%;
+}
+
+#WT {
+  color: whitesmoke;
+  text-align: center;
+  font-family: sans-serif;
+  font-size: 25px;
+  display: block;
+  background-color: black;
+  padding: 5px;
+}
+
+#L3 {
+  text-align: center;
+  color: whitesmoke;
+  font-family: sans-serif;
+}
+
+#L4 {
+  text-align:center;
+  color: whitesmoke;
+  font-family: sans-serif;
+}
+
+.W{
+  border: none;
+  display: flex;
+  justify-content:space-evenly;
+}
+
+
+
+
+
+
+#ColdWarTitle {
+  color: whitesmoke;
+  text-align: center;
+  font-family: sans-serif;
+  font-size: 50px;
+  display: block;
+}
+
+#MT2 {
+  color: whitesmoke;
+  text-align: center;
+  font-family: sans-serif;
+  font-size: 25px;
+  display: block;
+  background-color: black;
+  padding: 5px;
+}
+
+#L5 {
+  text-align: center;
+  color: whitesmoke;
+  font-family: sans-serif;
+}
+
+#L6 {
+  text-align:center;
+  color: whitesmoke;
+  font-family: sans-serif;
+}
+
+.M2{
+  border: none;
+  display: flex;
+  justify-content:space-evenly;
+}
+
+.Items{
+  padding-left: 15px;
+  padding-right: 15px;
+  color: whitesmoke;
+  font-family: sans-serif;
+  background-color: black;
+  opacity: 50%;
+}
+
+#Z {
+  color: whitesmoke;
+  text-align: center;
+  font-family: sans-serif;
+  font-size: 25px;
+  display: block;
+  background-color: black;
+  padding: 5px;
+}
+
+#L7 {
+  text-align: center;
+  color: whitesmoke;
+  font-family: sans-serif;
+}
+
+#L8 {
+  text-align:center;
+  color: whitesmoke;
+  font-family: sans-serif;
+}
+
+.Z1{
+  border: none;
+  display: flex;
+  justify-content:space-evenly;
+}
+
+
+
+
+
+
+#AboutMeTitle {
+  color: whitesmoke;
+  text-align: center;
+  font-family: sans-serif;
+  font-size: 50px;
+  display: block;
+}
+
+#ML {
+  color: whitesmoke;
+  text-align: center;
+  font-family: sans-serif;
+  font-size: 25px;
+  display: block;
+  background-color: black;
+  padding: 5px;
+}
+
+#AM1 {
+  text-align: center;
+  color: whitesmoke;
+  font-family: sans-serif;
+}
+
+#AM2 {
+  text-align: center;
+  color: whitesmoke;
+  font-family: sans-serif;
+}
+
+#AM3 {
+  text-align:center;
+  color: whitesmoke;
+  font-family: sans-serif;
+}
+
+.AM{
+  border: none;
+  display: flex;
+  justify-content:space-evenly;
+}
+
+.Items{
+  padding-left: 15px;
+  padding-right: 15px;
+  color: whitesmoke;
+  font-family: sans-serif;
+  background-color: black;
+  opacity: 50%;
+}
+
+#MS {
+  color: whitesmoke;
+  text-align: center;
+  font-family: sans-serif;
+  font-size: 25px;
+  display: block;
+  background-color: black;
+  padding: 5px;
+}
+
+.MS1{
+  border: none;
+  display: flex;
+  justify-content:space-evenly;
+}
+
+
+
+body {
+  background-image: url('codbg.jpg');
+  background-repeat:no-repeat;
+  background-attachment:fixed;
+  background-size:cover;
+}
